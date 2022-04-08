@@ -1,0 +1,18 @@
+{
+	"BTCUSDT": {
+		"trigger": "more",
+		"price": "60000"
+	},
+	"ETHBTC": {
+		"trigger": "less",
+		"price": "0.07"
+	},
+	"DOTUSDT": {
+		"trigger": "more_eq",
+		"price": "40"
+	},
+	"ETHUSDT": {
+		"trigger": "less_eq",
+		"price": "4000"
+	}
+}
